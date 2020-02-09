@@ -1,0 +1,2 @@
+# aaic
+Applied AI
